@@ -159,7 +159,7 @@ autoscale: true
 ---
 
 ## *~80 commits*
-#### on any given day to the repo (Android + iOS)
+#### to master on any given day to the repo (Android + iOS)
 
 ^ with around 100 commits per day
 
@@ -896,7 +896,8 @@ def add_visibility_for_legacy_module_structure(visibility):
 ---
 
 ## Try it 
-# **ourselves**
+# [fit]**ourselves**
+## first
 
 ^ So we were forced to pilot ourselves
 
@@ -911,12 +912,12 @@ def add_visibility_for_legacy_module_structure(visibility):
 
 ---
 
-# Should I **follow** this?
+# Should I **implement** this?
 
 ---
 
-### Most likely:
-# **NO**
+### Most likely
+# [fit]**NO**
 
 ^ As I pointed out at the beggining, each organization will affect the codebase structure
 
@@ -937,14 +938,14 @@ def add_visibility_for_legacy_module_structure(visibility):
 ---
 [.build-lists: true]
 
-## To recap:
+## *Summary*
 
-1. Document best practices
-1. Figure out where you're struggling
-1. Automate those best practices
+1. Figure out where you're **struggling**
+1. **Create and document** best practices
+1. **Automate** best practices where needed
 
 ---
 
-# *Gracias!*
+# [fit] *¡Gracias!*
 
-##### franciscodiaz.cl/talks
+#### franciscodiaz.cl/talks
